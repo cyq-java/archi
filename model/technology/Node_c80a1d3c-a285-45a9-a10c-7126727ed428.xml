@@ -1,0 +1,14 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="交易基础-报价行情处理服务器"
+    id="c80a1d3c-a285-45a9-a10c-7126727ed428">
+  <properties
+      key="type"
+      value="DEPLOY_SERVER"/>
+  <properties
+      key="id"
+      value="TBS-MKT"/>
+  <properties
+      key="count"
+      value="2"/>
+</archimate:Node>

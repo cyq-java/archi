@@ -1,0 +1,8 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Oracle"
+    id="9a363385-5114-430d-b456-444cd1a6ede3">
+  <properties
+      key="version"
+      value="12.2.0.1"/>
+</archimate:SystemSoftware>

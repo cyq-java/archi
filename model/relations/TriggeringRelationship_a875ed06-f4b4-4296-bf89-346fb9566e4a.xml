@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4分发报价消息"
+    id="a875ed06-f4b4-4296-bf89-346fb9566e4a">
+  <source
+      xsi:type="archimate:ApplicationProcess"
+      href="ApplicationProcess_7ab2e360-9aec-4d65-bcef-c84e06d9152e.xml#7ab2e360-9aec-4d65-bcef-c84e06d9152e"/>
+  <target
+      xsi:type="archimate:ApplicationProcess"
+      href="ApplicationProcess_c9c80dcd-0831-4ec6-881a-f8e44511aa14.xml#c9c80dcd-0831-4ec6-881a-f8e44511aa14"/>
+</archimate:TriggeringRelationship>

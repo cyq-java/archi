@@ -1,0 +1,11 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="HPPE (copy)"
+    id="39407f61-baa3-4da3-b254-a361ea623871">
+  <properties
+      key="type"
+      value="TECHNOLOGY_FRAME"/>
+  <properties
+      key="color"
+      value="#FFD7EB"/>
+</archimate:ApplicationComponent>

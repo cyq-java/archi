@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="3.校验交易时段"
+    id="0a509d97-9a1d-4582-b8bb-a481deaa271a">
+  <source
+      xsi:type="archimate:Artifact"
+      href="Artifact_c6e05d6d-65f5-464f-830e-91bbc7aae812.xml#c6e05d6d-65f5-464f-830e-91bbc7aae812"/>
+  <target
+      xsi:type="archimate:ApplicationProcess"
+      href="ApplicationProcess_7ab2e360-9aec-4d65-bcef-c84e06d9152e.xml#7ab2e360-9aec-4d65-bcef-c84e06d9152e"/>
+</archimate:FlowRelationship>

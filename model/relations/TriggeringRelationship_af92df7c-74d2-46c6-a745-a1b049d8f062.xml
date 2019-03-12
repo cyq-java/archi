@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="1.发起报价"
+    id="af92df7c-74d2-46c6-a745-a1b049d8f062">
+  <source
+      xsi:type="archimate:ApplicationProcess"
+      href="ApplicationProcess_78cba73b-4d4d-45b0-8174-e57675b26d40.xml#78cba73b-4d4d-45b0-8174-e57675b26d40"/>
+  <target
+      xsi:type="archimate:ApplicationProcess"
+      href="ApplicationProcess_15356c80-126e-4084-a5e2-212cf0789867.xml#15356c80-126e-4084-a5e2-212cf0789867"/>
+</archimate:TriggeringRelationship>

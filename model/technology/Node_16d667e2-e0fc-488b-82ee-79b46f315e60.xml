@@ -1,0 +1,14 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="交易-NDM API前置服务器"
+    id="16d667e2-e0fc-488b-82ee-79b46f315e60">
+  <properties
+      key="type"
+      value="DEPLOY_SERVER"/>
+  <properties
+      key="id"
+      value="CTE-API"/>
+  <properties
+      key="count"
+      value="2"/>
+</archimate:Node>

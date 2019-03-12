@@ -1,0 +1,11 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="软件"
+    id="a4e8f080-3045-4dd7-956b-a051891f3fd4">
+  <properties
+      key="type"
+      value="DEPLOY_SOFTWARE"/>
+  <properties
+      key="color"
+      value="#C9E7B7"/>
+</archimate:SystemSoftware>

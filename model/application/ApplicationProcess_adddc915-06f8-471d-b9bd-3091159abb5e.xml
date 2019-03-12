@@ -1,0 +1,8 @@
+<archimate:ApplicationProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="交易前置  "
+    id="adddc915-06f8-471d-b9bd-3091159abb5e">
+  <properties
+      key="type"
+      value="APPLICATION_PROCESS"/>
+</archimate:ApplicationProcess>

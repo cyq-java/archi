@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="2.转换并分发报价消息"
+    id="b29d0541-20b2-460d-bec6-e17f697d4225">
+  <source
+      xsi:type="archimate:ApplicationProcess"
+      href="ApplicationProcess_15356c80-126e-4084-a5e2-212cf0789867.xml#15356c80-126e-4084-a5e2-212cf0789867"/>
+  <target
+      xsi:type="archimate:ApplicationProcess"
+      href="ApplicationProcess_7ab2e360-9aec-4d65-bcef-c84e06d9152e.xml#7ab2e360-9aec-4d65-bcef-c84e06d9152e"/>
+</archimate:FlowRelationship>

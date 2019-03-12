@@ -1,0 +1,8 @@
+<archimate:ApplicationProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="交易前置(qdm-dp-moneybrokerpreapi)"
+    id="1d50885e-85f2-4f8e-86f2-78a1cdb4cd98">
+  <properties
+      key="type"
+      value="APPLICATION_PROCESS"/>
+</archimate:ApplicationProcess>

@@ -1,0 +1,8 @@
+<archimate:ApplicationProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="报价分发"
+    id="e74c6a06-9c55-4191-b076-b2459f23e6f4">
+  <properties
+      key="type"
+      value="APPLICATION_PROCESS"/>
+</archimate:ApplicationProcess>

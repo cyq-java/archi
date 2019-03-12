@@ -1,0 +1,8 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Oracle"
+    id="d4579059-4d1f-4eb5-9a98-3c4dee00ce7d">
+  <properties
+      key="type"
+      value="APPLICATION_DATABASE"/>
+</archimate:Artifact>

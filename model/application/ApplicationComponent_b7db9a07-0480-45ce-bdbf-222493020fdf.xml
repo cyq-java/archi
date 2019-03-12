@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="报价管理"
+    id="b7db9a07-0480-45ce-bdbf-222493020fdf"
+    documentation="（1）打开报价窗口时，首先向后台发送报价处理反馈订阅消息&#xD;&#xA;（2）从客户端缓存中加载基础数据，展示界面&#xD;&#xA;（3）根据用户输入的债券代码、名称模糊搜索&#xD;&#xA;（4）提交报价数据&#xD;&#xA;"/>

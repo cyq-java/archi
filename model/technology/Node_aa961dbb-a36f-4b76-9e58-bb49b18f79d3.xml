@@ -1,0 +1,14 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="数据库-交易基础"
+    id="aa961dbb-a36f-4b76-9e58-bb49b18f79d3">
+  <properties
+      key="type"
+      value="DEPLOY_SERVER"/>
+  <properties
+      key="id"
+      value="DB-TBS"/>
+  <properties
+      key="count"
+      value="3"/>
+</archimate:Node>

@@ -1,0 +1,14 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="静态资源服务器"
+    id="f9a3183d-9156-4c49-8133-1eea1bcbfd9e">
+  <properties
+      key="type"
+      value="DEPLOY_SERVER"/>
+  <properties
+      key="id"
+      value="UAP-RSRC"/>
+  <properties
+      key="count"
+      value="3"/>
+</archimate:Node>

@@ -1,0 +1,8 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RHEL"
+    id="6bb3f2ec-1d4a-4e32-8224-a20e758c56ca">
+  <properties
+      key="version"
+      value="7.3"/>
+</archimate:SystemSoftware>

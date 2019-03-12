@@ -1,0 +1,14 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="交易-协商处理服务器"
+    id="76145a04-e837-494c-8c00-488d1cbde66c">
+  <properties
+      key="type"
+      value="DEPLOY_SERVER"/>
+  <properties
+      key="id"
+      value="CTE-NGTN"/>
+  <properties
+      key="count"
+      value="3"/>
+</archimate:Node>

@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="6.1推送报价"
+    id="27ccfa8b-9e8f-4f3a-8e30-1f4ab9541565">
+  <source
+      xsi:type="archimate:ApplicationProcess"
+      href="ApplicationProcess_c9c80dcd-0831-4ec6-881a-f8e44511aa14.xml#c9c80dcd-0831-4ec6-881a-f8e44511aa14"/>
+  <target
+      xsi:type="archimate:ApplicationProcess"
+      href="ApplicationProcess_7ab2e360-9aec-4d65-bcef-c84e06d9152e.xml#7ab2e360-9aec-4d65-bcef-c84e06d9152e"/>
+</archimate:FlowRelationship>
