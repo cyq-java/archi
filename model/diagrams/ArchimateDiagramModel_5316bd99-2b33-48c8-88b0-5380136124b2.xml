@@ -37,6 +37,15 @@
             id="b53ca7c9-fea4-4bec-bb7f-7546bbaedeaf"
             fillColor="#B7E7FD"
             type="1">
+          <sourceConnections
+              xsi:type="archimate:DiagramModelArchimateConnection"
+              id="12b61fc8-5f4e-4b85-8a88-6f3dd8534f30"
+              source="b53ca7c9-fea4-4bec-bb7f-7546bbaedeaf"
+              target="bc471911-dfa3-41ce-b4b3-f4159f6c6d94">
+            <archimateRelationship
+                xsi:type="archimate:TriggeringRelationship"
+                href="TriggeringRelationship_8a11b4d9-4315-4827-bb3f-8ef73af78f26.xml#8a11b4d9-4315-4827-bb3f-8ef73af78f26"/>
+          </sourceConnections>
           <bounds
               y="24"
               width="133"
@@ -68,6 +77,7 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="8bfc6248-9352-42e1-a468-9746b7923b08"
+          targetConnections="dae180a9-0679-438d-bed0-3254d33a7b9f"
           fillColor="#B7E7FD"
           type="1">
         <bounds
@@ -80,6 +90,24 @@
             id="46064214-ae74-49a7-8fb1-0a6bb9351ce0"
             fillColor="#B7E7FD"
             type="1">
+          <sourceConnections
+              xsi:type="archimate:DiagramModelArchimateConnection"
+              id="dae180a9-0679-438d-bed0-3254d33a7b9f"
+              source="46064214-ae74-49a7-8fb1-0a6bb9351ce0"
+              target="8bfc6248-9352-42e1-a468-9746b7923b08">
+            <archimateRelationship
+                xsi:type="archimate:TriggeringRelationship"
+                href="TriggeringRelationship_2a817332-9f7f-48d8-b748-b4ff94bd8f38.xml#2a817332-9f7f-48d8-b748-b4ff94bd8f38"/>
+          </sourceConnections>
+          <sourceConnections
+              xsi:type="archimate:DiagramModelArchimateConnection"
+              id="99eead01-1fbe-4cb2-977d-8cc4fa447f7d"
+              source="46064214-ae74-49a7-8fb1-0a6bb9351ce0"
+              target="bc471911-dfa3-41ce-b4b3-f4159f6c6d94">
+            <archimateRelationship
+                xsi:type="archimate:TriggeringRelationship"
+                href="TriggeringRelationship_deec590c-4838-4daf-9141-457f2a1ed12f.xml#deec590c-4838-4daf-9141-457f2a1ed12f"/>
+          </sourceConnections>
           <bounds
               y="24"
               width="133"
@@ -139,7 +167,8 @@
         height="97"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="bc471911-dfa3-41ce-b4b3-f4159f6c6d94">
+        id="bc471911-dfa3-41ce-b4b3-f4159f6c6d94"
+        targetConnections="12b61fc8-5f4e-4b85-8a88-6f3dd8534f30 99eead01-1fbe-4cb2-977d-8cc4fa447f7d">
       <bounds
           x="35"
           y="24"
